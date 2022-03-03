@@ -5,10 +5,8 @@ ___
 ![Profile views](https://gpvc.arturio.dev/raihanfaiq)
 ___
 ### 📈 Github Profile Stats
-<p>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?raihanfaiq=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?raihanfaiq=jasongaylord&langs_count=5&theme=tokyonight)]()
-</p>
 <!--
 **raihanfaiq/raihanfaiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
