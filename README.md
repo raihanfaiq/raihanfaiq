@@ -2,7 +2,7 @@
 ___
 ### 👦🏻 Personal Stuffs
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raihan-faiq)
-[![Profile views](https://gpvc.arturio.dev/raihanfaiq)
+![Profile views](https://gpvc.arturio.dev/raihanfaiq)
 ___
 ### 📈 Github Profile Stats
 <p>
