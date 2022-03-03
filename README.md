@@ -6,6 +6,7 @@ ___
 ___
 ### 📈 Github Profile Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raihanfaiq&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanfaiq&langs_count=5&theme=tokyonight)]()
 <!--
 **raihanfaiq/raihanfaiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
